@@ -4,7 +4,7 @@ from PIL import Image
 
 from utils import classify, set_background
 
-set_background('./PneumoniaClassification/doc.avif')    
+set_background('./PneumoniaClassification/2.jpeg')    
 
 st.set_page_config(page_title="Pneumonia Detection with AI", layout="centered")
 
